@@ -1,0 +1,21 @@
+:root {
+  --kit-accent: #3d6bff;
+  --kit-accent-fg: #fff;
+  --kit-panel: #14163f;
+  --kit-fg: #fff;
+  --kit-muted: #343a78;
+  --kit-radius: 16px;
+  --kit-font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+html, body { margin: 0; height: 100%; background: #04051a; overflow: hidden; overscroll-behavior: none; }
+body { font-family: var(--kit-font); -webkit-tap-highlight-color: transparent; }
+#game { position: fixed; inset: 0; }
+
+/* Resultado de la partida */
+.bc-res { display: grid; gap: 8px; margin: 4px 0 14px; text-align: center; }
+.bc-big { font-size: 2.3rem; font-weight: 900; line-height: 1; }
+.bc-sub { opacity: .85; font-size: .9rem; }
+.bc-new { color: #ffd96a; font-weight: 800; }
+.bc-stats { display: flex; justify-content: center; gap: 14px; font-size: .78rem; opacity: .92; }
+.bc-stats b { display: block; font-size: 1.15rem; }
+.bc-tip { background: rgba(255, 255, 255, .08); border-radius: 10px; padding: 8px 10px; font-size: .82rem; line-height: 1.3; }

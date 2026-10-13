@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "syncedAt": "2026-10-13T05:29:46.912Z",
+  "files": {
+    "core/audio.js": "350cc28158a0ededc67412fb030d41ba55c732ac833d37e7641c13a19ae68b43",
+    "core/bignum.js": "bfea1637ff7f620de1fd6cfe8335d90fc51351e569f86d130a69fa2bbfbe4c83",
+    "core/canvas.js": "02d89e4b94a2ac9cfb20926d4e16e982f4705a576786fa034f942795f90280cd",
+    "core/input.js": "e66533cbcfa65e2793ea41f3b9b36a681d958e2118152272e2f44b02fee4571c",
+    "core/loop.js": "2de51d2c6c575165f48a179445991676c983e0a4355431a629591fedba403c83",
+    "core/particles.js": "da72d09e6141246d044b6f10d7a959e3a12805f6dc74f484a0e2a049975d4aee",
+    "core/rng.js": "2c5ad33946c001157e5704e3940177144ea2f567ff5668372fbc235272dac034",
+    "core/save.js": "348666af90b0d4ee220872e47e50c1bb4f006c42b3d8c4c245d4a8ccf94c15ec",
+    "core/scenes.js": "159a4963a359319a95f548cd57db8eaf95daa6b2cdd64bc7ff7c9d01281e2e1f",
+    "core/tween.js": "718b0f0f304bbff7016dd7937e49d65fa21cf68a31271dbf2cad542c682a9bfe",
+    "core/ui.js": "61306abf748c367316bb25805c861128cd7d02e5a7e2b182e51d4518b5c526a6",
+    "core/widgets.js": "d63a4fa38a31c831ee34df57a53d89a289b7c24cb77563683b6ff17e0edf0217",
+    "index.js": "d8d590de57a912313c392a41b23b8e384b60a31e6e594bfa955ee2d8cdc19fe3",
+    "services/ads.js": "3bfcad8e3c4913d6baa05336d9e0b09b7972a11b2a8623fa9105d05db05c2a3e",
+    "services/analytics.js": "48a993b79228b8ed56bafe028b8a5b6d819d6a2bd185963d3a776e88e72cbdd9",
+    "services/iap.js": "5c7286d2770af73887860b534a6cba5431f611a85c2abe5b411b33cd96ea6f26",
+    "services/offline.js": "848e91523a6584e2752f3f2f24ba2db0afc2d9a81e25204338ce5ea291db92a8",
+    "services/parental-gate.js": "44d2a9387bbf04014fae0fa16b6359b7081a267353923775ef4da2bd403023b0"
+  },
+  "hashing": "sha256 con saltos de línea normalizados a LF"
+}
